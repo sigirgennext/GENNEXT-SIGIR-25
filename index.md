@@ -108,7 +108,7 @@ title: "GENNEXT Workshop"
 
 <div class="banner">
   <h1>GENNEXT@SIGIR 2025</h1>
-  <p><strong>The FIRST Workshop on Next-Generation IR and Recommender Systems with LLM-based Language Agents (GENNEXT@SIGIR'25)</strong><br>
+  <p><strong> The 1st Workshop on Next Generation of IR and Recommender Systems with Language Agents, Generative Models, and Conversational AI (GENNEXT@SIGIR'25)</strong><br>
   Colocated with the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2025)</p>
 </div>
 
