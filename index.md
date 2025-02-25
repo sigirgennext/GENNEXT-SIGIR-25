@@ -294,21 +294,14 @@ title: "GENNEXT Workshop"
       <li><strong>Yashar Deldjoo</strong> (Tenure-Track Assistant Professor, Polytechnic University of Bari, Italy)<br>
 <h2 id="organizers">Workshop Organizers</h2>
 <ul>
-  <li><strong>Yashar Deldjoo</strong> (Polytechnic University of Bari, Italy)<br>
-    <em>Assistant Professor</em></li>
-  <li><strong>Scott Sanner</strong> (University of Toronto, Canada)<br>
-    <em>Associate Professor</em></li>
-  <li><strong>Enrico Palumbo</strong> (Spotify, Italy)<br>
-    <em>Senior Research Scientist</em></li>
-  <li><strong>Hugues Bouchard</strong> (Spotify, Spain)<br>
-    <em>Senior Research Manager</em></li>
-  <li><strong>Shuai Zhang</strong> (Amazon Web Services, USA)<br>
-    <em>Applied Scientist</em></li>
-  <li><strong>Pablo Castells</strong> (Autonomous University of Madrid, Spain)<br>
-    <em>Professor</em></li>
-  <li><strong>Julian McAuley</strong> (UC San Diego, USA)<br>
-    <em>Professor</em></li>
+  <li><strong>Yashar Deldjoo</strong>, Tenure-Track Assistant Professor, Polytechnic University of Bari, Italy</li>
+  <li><strong>Julian McAuley</strong>, Professor, UC San Diego, USA</li>
+  <li><strong>Scott Sanner</strong>, Associate Professor, University of Toronto, Canada</li>
+  <li><strong>Pablo Castells</strong>, Professor, Autonomous University of Madrid, Spain</li>
+  <li><strong>Shuai Zhang</strong>, Applied Scientist, Amazon Web Services AI, USA</li>
+  <li><strong>Enrico Palumbo</strong>, Senior Research Scientist, Spotify</li>
 </ul>
+
 
 
     <hr>
