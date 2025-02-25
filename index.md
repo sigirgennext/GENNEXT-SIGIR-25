@@ -35,15 +35,15 @@ title: "GENNEXT Workshop"
   /* Container for main content + sidebar */
   .wrapper {
     display: flex;
-    max-width: 1400px;  /* Increased from 1200px to make the page wider */
+    max-width: 1600px;  /* Increased to 1600px for a much wider layout */
     margin: 0 auto;
-    padding: 0 1rem 2rem;
+    padding: 0 2rem 2rem; /* Added extra padding for better spacing */
   }
 
   /* Sidebar (table of contents) */
   .sidebar {
-    min-width: 220px;
-    max-width: 250px;
+    min-width: 250px;
+    max-width: 300px; /* Increased sidebar width */
     margin-right: 2rem;
     background-color: #fff;
     border-radius: 8px;
@@ -77,6 +77,7 @@ title: "GENNEXT Workshop"
     padding: 2rem;
     border-radius: 8px;
     box-shadow: 0 0 6px rgba(0,0,0,0.1);
+    max-width: 1200px;  /* Adjusted to fit the new wider layout */
   }
 
   /* Headings, spacing adjustments */
