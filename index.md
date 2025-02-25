@@ -35,7 +35,7 @@ title: "GENNEXT Workshop"
   /* Container for main content + sidebar */
   .wrapper {
     display: flex;
-    max-width: 1200px;
+    max-width: 1400px;  /* Increased from 1200px to make the page wider */
     margin: 0 auto;
     padding: 0 1rem 2rem;
   }
@@ -309,7 +309,6 @@ title: "GENNEXT Workshop"
       <li><strong>Shuai Zhang</strong>, Applied Scientist, Amazon Web Services AI, USA</li>
       <li><strong>Enrico Palumbo</strong>, Senior Research Scientist, Spotify</li>
       <li><strong>Hugues Bouchard</strong>, Senior Research Scientist, Spotify</li>
-
     </ul>
 
     <hr>
