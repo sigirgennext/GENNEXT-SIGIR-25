@@ -291,21 +291,25 @@ title: "GENNEXT Workshop"
 
     <h2 id="organizers">Workshop Organizers</h2>
     <ul>
-      <li><strong>Yashar Deldjoo</strong> (Polytechnic University of Bari, Italy)<br>
-        Research focuses on multimodal recommender systems, trustworthy AI, and LLM-based personalization.</li>
-      <li><strong>Scott Sanner</strong> (University of Toronto, Canada)<br>
-        Works on AI, deep learning, and sequential decision-making with applications to IR/RecSys. Associate Editor for ACM TORS.</li>
-      <li><strong>Enrico Palumbo</strong> (Spotify, Italy)<br>
-        Senior Research Scientist; interests include generative retrieval, natural language understanding, and user modeling.</li>
-      <li><strong>Hugues Bouchard</strong> (Spotify, Spain)<br>
-        Leads teams on large-scale search, recommendation, and generative AI for interactive media.</li>
-      <li><strong>Shuai Zhang</strong> (Amazon Web Services, USA)<br>
-        Specializing in foundational models for IR, graph-based personalization, and large-scale neural retrieval.</li>
-      <li><strong>Pablo Castells</strong> (Autonomous University of Madrid, Spain)<br>
-        Professor with interests in IR theory, evaluation metrics, novelty/diversity, and fairness in recommendation.</li>
-      <li><strong>Julian McAuley</strong> (UC San Diego, USA)<br>
-        Professor leading pioneering research in deep learning for recommendation, text/image integration, and personalization.</li>
-    </ul>
+      <li><strong>Yashar Deldjoo</strong> (Tenure-Track Assistant Professor, Polytechnic University of Bari, Italy)<br>
+<h2 id="organizers">Workshop Organizers</h2>
+<ul>
+  <li><strong>Yashar Deldjoo</strong> (Polytechnic University of Bari, Italy)<br>
+    <em>Assistant Professor</em></li>
+  <li><strong>Scott Sanner</strong> (University of Toronto, Canada)<br>
+    <em>Associate Professor</em></li>
+  <li><strong>Enrico Palumbo</strong> (Spotify, Italy)<br>
+    <em>Senior Research Scientist</em></li>
+  <li><strong>Hugues Bouchard</strong> (Spotify, Spain)<br>
+    <em>Senior Research Manager</em></li>
+  <li><strong>Shuai Zhang</strong> (Amazon Web Services, USA)<br>
+    <em>Applied Scientist</em></li>
+  <li><strong>Pablo Castells</strong> (Autonomous University of Madrid, Spain)<br>
+    <em>Professor</em></li>
+  <li><strong>Julian McAuley</strong> (UC San Diego, USA)<br>
+    <em>Professor</em></li>
+</ul>
+
 
     <hr>
 
