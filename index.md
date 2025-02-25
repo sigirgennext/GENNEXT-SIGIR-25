@@ -3,189 +3,328 @@ layout: default
 title: "GENNEXT Workshop"
 ---
 
-<!-- 
-  Inline CSS to add a light background color and a cleaner look.
-  This block will be interpreted by GitHub Pages / Jekyll if you have
-  "markdown: kramdown" or a similar engine enabled in your _config.yml.
--->
+<!-- Inline CSS for a more polished look -->
 <style>
+  /* General page layout */
   body {
-    background-color: #f0f4f8;
-    font-family: "Helvetica Neue", Arial, sans-serif;
     margin: 0;
-    padding: 1.5rem;
+    padding: 0;
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    background-color: #f3f5f7;
     color: #333;
+    line-height: 1.6;
   }
-  h1, h2, h3, h4 {
-    color: #444;
+
+  /* A banner/header at the top */
+  .banner {
+    background-color: #1e81b0;
+    color: white;
+    text-align: center;
+    padding: 2rem 1rem;
+    margin-bottom: 1rem;
   }
-  hr {
-    margin: 2rem 0;
+  .banner h1 {
+    margin: 0.5rem 0;
+    font-size: 2.2rem;
   }
-  a {
+  .banner p {
+    margin: 0;
+    font-size: 1.1rem;
+  }
+
+  /* Container for main content + sidebar */
+  .wrapper {
+    display: flex;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1rem 2rem;
+  }
+
+  /* Sidebar (table of contents) */
+  .sidebar {
+    min-width: 220px;
+    max-width: 250px;
+    margin-right: 2rem;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 6px rgba(0,0,0,0.1);
+    padding: 1rem;
+    height: fit-content;
+  }
+  .sidebar h2 {
+    font-size: 1.2rem;
+    margin-top: 0;
+  }
+  .sidebar ul {
+    list-style: none;
+    padding-left: 0;
+  }
+  .sidebar ul li {
+    margin: 0.4rem 0;
+  }
+  .sidebar ul li a {
     color: #1e81b0;
     text-decoration: none;
   }
-  a:hover {
+  .sidebar ul li a:hover {
     text-decoration: underline;
   }
+
+  /* Main content area */
   .content {
-    max-width: 900px;
-    margin: 0 auto;
+    flex: 1;
     background-color: #fff;
     padding: 2rem;
-    box-shadow: 0 0 8px rgba(0,0,0,0.05);
     border-radius: 8px;
+    box-shadow: 0 0 6px rgba(0,0,0,0.1);
+  }
+
+  /* Headings, spacing adjustments */
+  .content h2 {
+    margin-top: 1.8rem;
+    margin-bottom: 1rem;
+  }
+  .content h3 {
+    margin-top: 1.2rem;
+  }
+
+  /* Table styling */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 1.5rem;
+  }
+  th, td {
+    text-align: left;
+    padding: 0.5rem;
+  }
+  th {
+    background-color: #f1f1f1;
+  }
+  tr:nth-child(even) {
+    background-color: #fafafa;
   }
 </style>
 
-<div class="content">
-
-# GENNEXT@SIGIR 2025
-
-**The 1st Workshop on Next-Generation IR and Recommender Systems with LLM-based Language Agents (GENNEXT@SIGIR'25)**  
-_Colocated with the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2025) in Padua, Italy_
-
----
-
-## Home
-
-Large Language Models (LLMs) and other generative architectures are rapidly reshaping the fields of Information Retrieval (IR) and Recommender Systems (RS). Advanced *language agents*—which combine LLMs with specialized tool usage, multi-turn dialogue, and domain knowledge—unlock new capabilities such as context-sensitive retrieval, personalized generation, and adaptive conversation flows.
-
-Despite the potential benefits, these generative models introduce new challenges in terms of **hallucination**, **bias/fairness**, **data privacy**, **security**, and **evaluation methodologies**. **GENNEXT** aims to explore the intersection of LLM-based **language agents**, **generative content creation**, and **conversational AI** in IR and RS—focusing on risks, opportunities, and novel forms of evaluation and user interaction.
-
-Our workshop builds upon the success of the [ROEGEN@RecSys'24](https://roegen-recsys2024.github.io/) event but broadens the scope to include more general information retrieval, next-generation recommendation, and tool-augmented LLMs.
-
----
-
-## Call for Papers
-
-We invite researchers and practitioners to submit work related (but not limited) to:
-
-- **LLM-driven IR and Recommender Systems**  
-  Prompting, in-context learning, foundation models, or domain-adaptive fine-tuning for IR/RS.
-
-- **Agentic Tool Usage**  
-  Techniques enabling LLMs to call external APIs (e.g., knowledge bases, retrieval models, recommendation engines) to fulfill user queries.
-
-- **Conversational and Dialogue Systems**  
-  Multi-turn interactions, user modeling, dynamic preference elicitation, explanation, or negotiation with generative AI.
-
-- **Generative Content Creation**  
-  Novel item generation (text, images, music), creative item repurposing, or integrated retrieval-plus-generation frameworks.
-
-- **Bias and Fairness, Privacy, and Ethics**  
-  Identifying and mitigating biases in generative models, ensuring privacy, building trust, and tackling hallucination risks.
-
-- **Evaluation Metrics and Benchmarks**  
-  Designing new metrics or user study protocols that capture the interplay of generative quality, recommendation relevance, and ethical concerns.
-
-### Submission Guidelines
-
-- **Full Papers**: *Up to 8 pages* (excluding references). These should present substantial research, theoretical analyses, or comprehensive surveys.  
-- **Short Papers**: *Up to 4 pages* (excluding references). Suitable for work-in-progress, preliminary findings, or new concepts.  
-- **Extended Abstracts**: *2–3 pages* (excluding references). For late-breaking results, vision papers, and discussion proposals.
-
-Submissions must be **anonymized** and follow the official [ACM two-column SIGCONF template](https://www.acm.org/publications/proceedings-template).  
-All submissions will undergo **double-blind peer review** and be evaluated for relevance, originality, and technical quality.
-
-We plan to publish the accepted papers in an open-access proceedings venue (e.g., CEUR-WS). Select high-quality submissions may be invited for extended versions in a journal special issue.
-
----
-
-## Important Dates (Tentative)
-
-- **Submission Deadline**: April 23, 2025 (AOE)  
-- **Notification of Acceptance**: May 21, 2025  
-- **Camera-Ready Deadline**: June 3, 2025  
-- **Workshop Date**: July 17, 2025 (During SIGIR 2025)
-
-*(Exact deadlines may be adjusted to align with SIGIR final scheduling.)*
-
----
-
-## Program (Tentative)
-
-| Time        | Event                                                        |
-|-------------|--------------------------------------------------------------|
-| 09:00-09:15 | **Opening and Welcome**                                      |
-| 09:15-10:00 | **Keynote Talk** (Speaker TBA)                               |
-| 10:00-10:30 | **Paper Presentations** (Session I)                          |
-| 10:30-11:00 | Coffee Break                                                 |
-| 11:00-12:15 | **Paper Presentations** (Session II)                         |
-| 12:15-13:30 | Lunch Break                                                 |
-| 13:30-14:15 | **Keynote Talk** (Speaker TBA)                               |
-| 14:15-15:30 | **Panel Discussion / Breakout Groups**                       |
-| 15:30-16:00 | Coffee Break                                                 |
-| 16:00-17:00 | **Poster/Demo Session**                                      |
-| 17:00-17:30 | **Wrap-up and Future Directions**                            |
-
-We will finalize the schedule once we have accepted contributions and confirmed keynote speakers.
-
----
-
-## Featured Speakers (Tentative)
-
-- **Keynote 1**: *TBA*  
-  *Potential topics: bridging LLMs and IR or generative recommendation at scale.*
-
-- **Keynote 2**: *TBA*  
-  *Potential topics: addressing fairness, privacy, or hallucinations in generative models.*
-
-*(Additional speakers to be confirmed.)*
-
----
-
-## Accepted Papers
-
-A list of accepted papers will be updated here after the review and acceptance notifications.
-
----
-
-## Workshop Organizers
-
-- **Yashar Deldjoo** (Polytechnic University of Bari, Italy)  
-  Research focuses on multimodal recommender systems, trustworthy AI, and LLM-based personalization.
-
-- **Scott Sanner** (University of Toronto, Canada)  
-  Works on AI, deep learning, and sequential decision-making with applications to IR/RecSys. Associate Editor for ACM TORS.
-
-- **Enrico Palumbo** (Spotify, Italy)  
-  Senior Research Scientist; interests include generative retrieval, natural language understanding, and user modeling.
-
-- **Hugues Bouchard** (Spotify, Spain)  
-  Leads teams on large-scale search, recommendation, and generative AI for interactive media.
-
-- **Shuai Zhang** (Amazon Web Services, USA)  
-  Specializing in foundational models for IR, graph-based personalization, and large-scale neural retrieval.
-
-- **Pablo Castells** (Autonomous University of Madrid, Spain)  
-  Professor with interests in IR theory, evaluation metrics, novelty/diversity, and fairness in recommendation.
-
-- **Julian McAuley** (UC San Diego, USA)  
-  Professor leading pioneering research in deep learning for recommendation, text/image integration, and personalization.
-
----
-
-## Program Committee (Partial List)
-
-- **Michael Ekstrand**, Drexel University  
-- **Craig Boutilier**, Google Research  
-- **Aixin Sun**, Nanyang Technological University  
-- **Jianling Wang**, Google DeepMind  
-- *(Additional members to be announced.)*
-
----
-
-## Contact and Further Information
-
-For any inquiries, please email:  
-**[your-contact-email@example.org](mailto:your-contact-email@example.org)**
-
-Workshop website: **(This Page)**
-
----
-
-© 2025 GENNEXT@SIGIR. All rights reserved.
-
+<div class="banner">
+  <h1>GENNEXT@SIGIR 2025</h1>
+  <p><strong>The 1st Workshop on Next-Generation IR and Recommender Systems with LLM-based Language Agents (GENNEXT@SIGIR'25)</strong><br>
+  Colocated with the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2025)</p>
 </div>
+
+<div class="wrapper">
+  <!-- Sidebar (Table of contents) -->
+  <div class="sidebar">
+    <h2>Navigation</h2>
+    <ul>
+      <li><a href="#home">Home</a></li>
+      <li><a href="#call-for-papers">Call for Papers</a></li>
+      <li><a href="#important-dates">Important Dates</a></li>
+      <li><a href="#program">Program</a></li>
+      <li><a href="#featured-speakers">Featured Speakers</a></li>
+      <li><a href="#accepted-papers">Accepted Papers</a></li>
+      <li><a href="#organizers">Workshop Organizers</a></li>
+      <li><a href="#committee">Program Committee</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </div>
+
+  <!-- Main content -->
+  <div class="content">
+
+    <h2 id="home">Home</h2>
+    <p>
+      Large Language Models (LLMs) and other generative architectures are rapidly reshaping 
+      the fields of Information Retrieval (IR) and Recommender Systems (RS). Advanced 
+      <em>language agents</em>—which combine LLMs with specialized tool usage, multi-turn dialogue, 
+      and domain knowledge—unlock new capabilities such as context-sensitive retrieval, personalized 
+      generation, and adaptive conversation flows.
+    </p>
+    <p>
+      Despite the potential benefits, these generative models introduce new challenges in terms 
+      of <strong>hallucination</strong>, <strong>bias/fairness</strong>, <strong>data privacy</strong>, 
+      <strong>security</strong>, and <strong>evaluation methodologies</strong>. 
+      <strong>GENNEXT</strong> aims to explore the intersection of LLM-based <em>language agents</em>, 
+      <em>generative content creation</em>, and <em>conversational AI</em> in IR and RS—focusing on 
+      risks, opportunities, and novel forms of evaluation and user interaction.
+    </p>
+    <p>
+      Our workshop builds upon the success of the 
+      <a href="https://roegen-recsys2024.github.io/" target="_blank">ROEGEN@RecSys'24</a> event 
+      but broadens the scope to include more general information retrieval, next-generation 
+      recommendation, and tool-augmented LLMs.
+    </p>
+
+    <hr>
+
+    <h2 id="call-for-papers">Call for Papers</h2>
+    <p>We invite researchers and practitioners to submit work related (but not limited) to:</p>
+    <ul>
+      <li><strong>LLM-driven IR and Recommender Systems</strong><br>
+        Prompting, in-context learning, foundation models, or domain-adaptive fine-tuning for IR/RS.</li>
+      <li><strong>Agentic Tool Usage</strong><br>
+        Techniques enabling LLMs to call external APIs (e.g., knowledge bases, retrieval models, 
+        recommendation engines) to fulfill user queries.</li>
+      <li><strong>Conversational and Dialogue Systems</strong><br>
+        Multi-turn interactions, user modeling, dynamic preference elicitation, explanation, or 
+        negotiation with generative AI.</li>
+      <li><strong>Generative Content Creation</strong><br>
+        Novel item generation (text, images, music), creative item repurposing, or integrated 
+        retrieval-plus-generation frameworks.</li>
+      <li><strong>Bias and Fairness, Privacy, and Ethics</strong><br>
+        Identifying and mitigating biases in generative models, ensuring privacy, building trust, 
+        and tackling hallucination risks.</li>
+      <li><strong>Evaluation Metrics and Benchmarks</strong><br>
+        Designing new metrics or user study protocols that capture the interplay of generative 
+        quality, recommendation relevance, and ethical concerns.</li>
+    </ul>
+
+    <h3>Submission Guidelines</h3>
+    <ul>
+      <li><strong>Full Papers</strong>: Up to 8 pages (excluding references). 
+        Present substantial research, theoretical analyses, or comprehensive surveys.</li>
+      <li><strong>Short Papers</strong>: Up to 4 pages (excluding references). 
+        Suitable for work-in-progress or preliminary findings.</li>
+      <li><strong>Extended Abstracts</strong>: 2–3 pages (excluding references). 
+        For late-breaking results, vision papers, or discussion proposals.</li>
+    </ul>
+    <p>
+      Submissions must be <strong>anonymized</strong> and follow the official 
+      <a href="https://www.acm.org/publications/proceedings-template" target="_blank">
+      ACM two-column SIGCONF template</a>.<br>
+      All submissions will undergo <strong>double-blind peer review</strong>.
+    </p>
+    <p>
+      Accepted papers will be published in <em>CEUR-WS</em> or a similar open-access venue. 
+      Selected high-quality submissions may be invited for extension in a journal special issue.
+    </p>
+
+    <hr>
+
+    <h2 id="important-dates">Important Dates (Tentative)</h2>
+    <ul>
+      <li><strong>Submission Deadline</strong>: April 23, 2025 (AOE)</li>
+      <li><strong>Notification of Acceptance</strong>: May 21, 2025</li>
+      <li><strong>Camera-Ready Deadline</strong>: June 3, 2025</li>
+      <li><strong>Workshop Date</strong>: July 17, 2025 (During SIGIR 2025)</li>
+    </ul>
+    <p><em>Exact deadlines may be adjusted to align with SIGIR final scheduling.</em></p>
+
+    <hr>
+
+    <h2 id="program">Program (Tentative)</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Time</th>
+          <th>Event</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>09:00-09:15</td>
+          <td><strong>Opening and Welcome</strong></td>
+        </tr>
+        <tr>
+          <td>09:15-10:00</td>
+          <td><strong>Keynote Talk</strong> (Speaker TBA)</td>
+        </tr>
+        <tr>
+          <td>10:00-10:30</td>
+          <td><strong>Paper Presentations</strong> (Session I)</td>
+        </tr>
+        <tr>
+          <td>10:30-11:00</td>
+          <td>Coffee Break</td>
+        </tr>
+        <tr>
+          <td>11:00-12:15</td>
+          <td><strong>Paper Presentations</strong> (Session II)</td>
+        </tr>
+        <tr>
+          <td>12:15-13:30</td>
+          <td>Lunch Break</td>
+        </tr>
+        <tr>
+          <td>13:30-14:15</td>
+          <td><strong>Keynote Talk</strong> (Speaker TBA)</td>
+        </tr>
+        <tr>
+          <td>14:15-15:30</td>
+          <td><strong>Panel Discussion</strong> / Breakout Groups</td>
+        </tr>
+        <tr>
+          <td>15:30-16:00</td>
+          <td>Coffee Break</td>
+        </tr>
+        <tr>
+          <td>16:00-17:00</td>
+          <td><strong>Poster/Demo Session</strong></td>
+        </tr>
+        <tr>
+          <td>17:00-17:30</td>
+          <td><strong>Wrap-up and Future Directions</strong></td>
+        </tr>
+      </tbody>
+    </table>
+    <p>
+      The final schedule will be posted once we confirm the accepted contributions and keynote speakers.
+    </p>
+
+    <hr>
+
+    <h2 id="featured-speakers">Featured Speakers (Tentative)</h2>
+    <ul>
+      <li><strong>Keynote 1</strong>: <em>TBA</em><br>
+        Potential topics: bridging LLMs and IR or generative recommendation at scale.</li>
+      <li><strong>Keynote 2</strong>: <em>TBA</em><br>
+        Potential topics: addressing fairness, privacy, or hallucinations in generative models.</li>
+    </ul>
+    <p><em>(Additional speakers to be announced.)</em></p>
+
+    <hr>
+
+    <h2 id="accepted-papers">Accepted Papers</h2>
+    <p>A list of accepted papers will be updated here after notifications.</p>
+
+    <hr>
+
+    <h2 id="organizers">Workshop Organizers</h2>
+    <ul>
+      <li><strong>Yashar Deldjoo</strong> (Polytechnic University of Bari, Italy)<br>
+        Research focuses on multimodal recommender systems, trustworthy AI, and LLM-based personalization.</li>
+      <li><strong>Scott Sanner</strong> (University of Toronto, Canada)<br>
+        Works on AI, deep learning, and sequential decision-making with applications to IR/RecSys. Associate Editor for ACM TORS.</li>
+      <li><strong>Enrico Palumbo</strong> (Spotify, Italy)<br>
+        Senior Research Scientist; interests include generative retrieval, natural language understanding, and user modeling.</li>
+      <li><strong>Hugues Bouchard</strong> (Spotify, Spain)<br>
+        Leads teams on large-scale search, recommendation, and generative AI for interactive media.</li>
+      <li><strong>Shuai Zhang</strong> (Amazon Web Services, USA)<br>
+        Specializing in foundational models for IR, graph-based personalization, and large-scale neural retrieval.</li>
+      <li><strong>Pablo Castells</strong> (Autonomous University of Madrid, Spain)<br>
+        Professor with interests in IR theory, evaluation metrics, novelty/diversity, and fairness in recommendation.</li>
+      <li><strong>Julian McAuley</strong> (UC San Diego, USA)<br>
+        Professor leading pioneering research in deep learning for recommendation, text/image integration, and personalization.</li>
+    </ul>
+
+    <hr>
+
+    <h2 id="committee">Program Committee (Partial List)</h2>
+    <ul>
+      <li>Michael Ekstrand, Drexel University</li>
+      <li>Craig Boutilier, Google Research</li>
+      <li>Aixin Sun, Nanyang Technological University</li>
+      <li>Jianling Wang, Google DeepMind</li>
+      <li>(Additional members to be announced)</li>
+    </ul>
+
+    <hr>
+
+    <h2 id="contact">Contact and Further Information</h2>
+    <p>For any inquiries, please email:  
+      <strong><a href="mailto:your-contact-email@example.org">your-contact-email@example.org</a></strong>
+    </p>
+    <p><em>© 2025 GENNEXT@SIGIR. All rights reserved.</em></p>
+
+  </div><!-- /.content -->
+</div><!-- /.wrapper -->
