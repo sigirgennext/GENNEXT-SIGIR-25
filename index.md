@@ -10,14 +10,14 @@ title: "GENNEXT Workshop"
     margin: 0;
     padding: 0;
     font-family: "Helvetica Neue", Arial, sans-serif;
-    background-color: #f3f5f7;
+    background-color: #f5f9fc; /* Updated background color */
     color: #333;
     line-height: 1.6;
   }
 
   /* A banner/header at the top */
   .banner {
-    background-color: #1e81b0;
+    background-color: #1c8d9c; /* Updated banner color */
     color: white;
     text-align: center;
     padding: 2rem 1rem;
@@ -63,7 +63,7 @@ title: "GENNEXT Workshop"
     margin: 0.4rem 0;
   }
   .sidebar ul li a {
-    color: #1e81b0;
+    color: #1c8d9c;
     text-decoration: none;
   }
   .sidebar ul li a:hover {
@@ -108,8 +108,13 @@ title: "GENNEXT Workshop"
 
 <div class="banner">
   <h1>GENNEXT@SIGIR 2025</h1>
-  <p><strong> The 1st Workshop on Next Generation of IR and Recommender Systems with Language Agents, Generative Models, and Conversational AI (GENNEXT@SIGIR'25)</strong><br>
-  Colocated with the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2025)</p>
+  <p>
+    <strong>
+      The 1st Workshop on Next Generation of IR and Recommender Systems with Language Agents, Generative Models, 
+      and Conversational AI (GENNEXT@SIGIR'25)
+    </strong><br>
+    Colocated with the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2025)
+  </p>
 </div>
 
 <div class="wrapper">
@@ -197,6 +202,12 @@ title: "GENNEXT Workshop"
     <p>
       Accepted papers will be published in <em>CEUR-WS</em> or a similar open-access venue. 
       Selected high-quality submissions may be invited for extension in a journal special issue.
+    </p>
+    <p>
+      <strong>Submission Link:</strong>  
+      <a href="https://easychair.org/conferences/?conf=GENNEXT-SIGIR2025" target="_blank">
+        EasyChair for GENNEXT@SIGIR'25
+      </a>
     </p>
 
     <hr>
@@ -291,18 +302,13 @@ title: "GENNEXT Workshop"
 
     <h2 id="organizers">Workshop Organizers</h2>
     <ul>
-      <li><strong>Yashar Deldjoo</strong> (Tenure-Track Assistant Professor, Polytechnic University of Bari, Italy)<br>
-<h2 id="organizers">Workshop Organizers</h2>
-<ul>
-  <li><strong>Yashar Deldjoo</strong>, Tenure-Track Assistant Professor, Polytechnic University of Bari, Italy</li>
-  <li><strong>Julian McAuley</strong>, Professor, UC San Diego, USA</li>
-  <li><strong>Scott Sanner</strong>, Associate Professor, University of Toronto, Canada</li>
-  <li><strong>Pablo Castells</strong>, Professor, Autonomous University of Madrid, Spain</li>
-  <li><strong>Shuai Zhang</strong>, Applied Scientist, Amazon Web Services AI, USA</li>
-  <li><strong>Enrico Palumbo</strong>, Senior Research Scientist, Spotify</li>
-</ul>
-
-
+      <li><strong>Yashar Deldjoo</strong>, Tenure-Track Assistant Professor, Polytechnic University of Bari, Italy</li>
+      <li><strong>Julian McAuley</strong>, Professor, UC San Diego, USA</li>
+      <li><strong>Scott Sanner</strong>, Associate Professor, University of Toronto, Canada</li>
+      <li><strong>Pablo Castells</strong>, Professor, Autonomous University of Madrid, Spain</li>
+      <li><strong>Shuai Zhang</strong>, Applied Scientist, Amazon Web Services AI, USA</li>
+      <li><strong>Enrico Palumbo</strong>, Senior Research Scientist, Spotify</li>
+    </ul>
 
     <hr>
 
