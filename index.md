@@ -309,7 +309,7 @@ title: "GENNEXT Workshop"
       <li><strong>Pablo Castells</strong>, Professor, Autonomous University of Madrid, Spain</li>
       <li><strong>Shuai Zhang</strong>, Applied Scientist, Amazon Web Services AI, USA</li>
       <li><strong>Enrico Palumbo</strong>, Senior Research Scientist, Spotify</li>
-      <li><strong>Hugues Bouchard</strong>, Senior Research Scientist, Spotify</li>
+      <li><strong>Hugues Bouchard</strong>, Senior Research Manager, Spotify</li>
     </ul>
 
     <hr>
