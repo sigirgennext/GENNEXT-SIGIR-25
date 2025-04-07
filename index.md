@@ -206,7 +206,7 @@ title: "GENNEXT Workshop"
     </p>
     <p>
       <strong>Submission Link:</strong>  
-      <a href="https://easychair.org/conferences/?conf=GENNEXT-SIGIR2025" target="_blank">
+      <a href="https://easychair.org/my/conference?conf=gennextsigir25" target="_blank">
         EasyChair for GENNEXT@SIGIR'25
       </a>
     </p>
@@ -327,7 +327,7 @@ title: "GENNEXT Workshop"
 
     <h2 id="contact">Contact and Further Information</h2>
     <p>For any inquiries, please email:  
-      <strong><a href="mailto:your-contact-email@example.org">your-contact-email@example.org</a></strong>
+      <strong><a href="mailto:gennext_at_sigir2025@googlegroups.com"gennext_at_sigir2025@googlegroups.com</a></strong>
     </p>
     <p><em>© 2025 GENNEXT@SIGIR. All rights reserved.</em></p>
 
