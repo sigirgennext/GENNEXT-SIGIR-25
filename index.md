@@ -327,7 +327,13 @@ title: "GENNEXT Workshop"
 
     <h2 id="contact">Contact and Further Information</h2>
     <p>For any inquiries, please email:  
-      <strong><a href="mailto:gennext_at_sigir2025@googlegroups.com"gennext_at_sigir2025@googlegroups.com</a> and <strong><a href="mailto:gennext_at_sigir2025@googlegroups.com"deldjooy@acm.org</a> </strong>
+    <strong>
+  <a href="mailto:gennext_at_sigir2025@googlegroups.com">gennext_at_sigir2025@googlegroups.com</a>
+</strong> 
+and 
+<strong>
+  <a href="mailto:deldjooy@acm.org">deldjooy@acm.org</a>
+</strong>
     </p>
     <p><em>© 2025 GENNEXT@SIGIR. All rights reserved.</em></p>
 
