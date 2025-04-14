@@ -187,9 +187,11 @@ title: "GENNEXT Workshop"
 
     <h3>Submission Guidelines</h3>
     <ul>
-      <li><strong>Full Papers</strong>: Up to 8 pages (excluding references). 
+      <li><strong>Full Papers</strong>: Up to 8 pages (including figures, tables, proofs, appendixes, acknowledgments, and any content except references)
+        but excluding references. 
         Present substantial research, theoretical analyses, or comprehensive surveys.</li>
-      <li><strong>Short Papers</strong>: Up to 4 pages (excluding references). 
+      <li><strong>Short Papers</strong>: Up to 4 pages (including figures, tables, proofs, appendixes, acknowledgments, and any content except references)
+        but excluding references. 
         Suitable for work-in-progress or preliminary findings.</li>
       <li><strong>Extended Abstracts</strong>: 2–3 pages (excluding references). 
         For late-breaking results, vision papers, or discussion proposals.</li>
