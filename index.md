@@ -217,7 +217,7 @@ title: "GENNEXT Workshop"
 
     <h2 id="important-dates">Important Dates (Tentative)</h2>
     <ul>
-      <li><strong>Submission Deadline</strong>: April 23, 2025 (AOE)</li>
+      <li><strong>Submission Deadline</strong>: <span style="text-decoration: line-through;">April 23, 2025 (AOE)</span> <strong>New:</strong> May 4, 2025 (AOE)</li>
       <li><strong>Notification of Acceptance</strong>: May 21, 2025</li>
       <li><strong>Camera-Ready Deadline</strong>: June 3, 2025</li>
       <li><strong>Workshop Date</strong>: July 17, 2025 (During SIGIR 2025)</li>
