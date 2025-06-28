@@ -252,31 +252,15 @@ title: "GENNEXT Workshop"
           <td>Coffee Break</td>
         </tr>
         <tr>
-          <td>11:00-12:15</td>
-          <td><strong>Paper Presentations</strong> (Session II)</td>
-        </tr>
-        <tr>
-          <td>12:15-13:30</td>
-          <td>Lunch Break</td>
-        </tr>
-        <tr>
-          <td>13:30-14:15</td>
+          <td>11:00-11:45</td>
           <td><strong>Keynote Talk</strong> (Speaker TBA)</td>
         </tr>
         <tr>
-          <td>14:15-15:30</td>
-          <td><strong>Panel Discussion</strong> / Breakout Groups</td>
+          <td>11:45-12:15</td>
+          <td><strong>Paper Presentations</strong> (Session II)</td>
         </tr>
         <tr>
-          <td>15:30-16:00</td>
-          <td>Coffee Break</td>
-        </tr>
-        <tr>
-          <td>16:00-17:00</td>
-          <td><strong>Poster/Demo Session</strong></td>
-        </tr>
-        <tr>
-          <td>17:00-17:30</td>
+          <td>12:15-12:30</td>
           <td><strong>Wrap-up and Future Directions</strong></td>
         </tr>
       </tbody>
