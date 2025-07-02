@@ -247,17 +247,17 @@ title: "GENNEXT Workshop"
       <td>
         <strong>Contributed Talks:</strong> <em>"Resources, Evaluation, RAG, and Information Retrieval"</em><br>
         <ul>
-          <li><strong>[7 min] A Resource for Studying Textual Poisoning Attacks against Embedding-based Retrieval-Augmented Generation in Recommender Systems</strong><br>
+          <li><strong>[7 min]</strong> <em>"A Resource for Studying Textual Poisoning Attacks against Embedding-based Retrieval-Augmented Generation in Recommender Systems"</em><br>
           Fatemeh Nazary, Yashar Deldjoo and Tommaso Di Noia</li>
-          <li><strong>[7 min] FACap: A Large-scale Fashion Dataset for Fine-grained Composed Image Retrieval</strong><br>
+          <li><strong>[7 min]</strong> <em>"FACap: A Large-scale Fashion Dataset for Fine-grained Composed Image Retrieval"</em><br>
           Francois Garderes, Shizhe Chen, Camille-Sovanneary Gauthier and Jean Ponce</li>
-          <li><strong>[7 min] Exploring Diversity, Novelty, and Popularity Bias in ChatGPT’s Recommendations</strong><br>
+          <li><strong>[7 min]</strong> <em>"Exploring Diversity, Novelty, and Popularity Bias in ChatGPT’s Recommendations"</em><br>
           Dario Di Palma, Giovanni Maria Biancofiore, Vito Walter Anelli, Fedelucio Narducci and Tommaso Di Noia</li>
-          <li><strong>[3 min] CAL-RAG: Retrieval-Augmented Multi-Agent Generation for Content-Aware Layout Design</strong><br>
+          <li><strong>[3 min]</strong> <em>"CAL-RAG: Retrieval-Augmented Multi-Agent Generation for Content-Aware Layout Design"</em><br>
           Najmeh Forouzandehmehr, Reza Yousefi Maragheh, Sriram Kollipara, Kai Zhao, Topojoy Biswas, Jianpeng Xu, Evren Korpeoglu and Kannan Achan</li>
-          <li><strong>[3 min] MIND: Memory-Informed & INteractive Dynamic RAG for Multi-Hop Question Answering</strong><br>
+          <li><strong>[3 min]</strong> <em>"MIND: Memory-Informed & INteractive Dynamic RAG for Multi-Hop Question Answering"</em><br>
           Yuelyu Ji, Rui Meng, Zhuochun Li and Daqing He</li>
-          <li><strong>[3 min] Multilingual Information Retrieval with a Monolingual Knowledge Base</strong><br>
+          <li><strong>[3 min]</strong> <em>"Multilingual Information Retrieval with a Monolingual Knowledge Base"</em><br>
           Yingyin Zhuang, Aman Gupta and Anurag Beniwal</li>
         </ul>
       </td>
@@ -277,19 +277,19 @@ title: "GENNEXT Workshop"
       <td>
         <strong>Contributed Talks:</strong> <em>"Generative Models for Conversation and Recommendation"</em><br>
         <ul>
-          <li><strong>[7 min] Synthetic Dialogue Generation for Interactive Conversational Elicitation & Recommendation (ICER)</strong><br>
+          <li><strong>[7 min]</strong> <em>"Synthetic Dialogue Generation for Interactive Conversational Elicitation & Recommendation (ICER)"</em><br>
           Moonkyung Ryu, Chih-Wei Hsu, Yinlam Chow, Mohammad Ghavamzadeh and Craig Boutilier</li>
-          <li><strong>[7 min] ARAG: Agentic Retrieval Augmented Generation for Personalized Recommendation</strong><br>
+          <li><strong>[7 min]</strong> <em>"ARAG: Agentic Retrieval Augmented Generation for Personalized Recommendation"</em><br>
           Reza Yousefi Maragheh, Pratheek Vadla, Priyank Gupta, Kai Zhao, Aysenur Inan, Kehui Yao, Jianpeng Xu, Praveen Kanumala, Jason Cho and Sushant Kumar</li>
-          <li><strong>[7 min] Think Before Recommend: Unleashing the Latent Reasoning Power for Sequential Recommendation</strong><br>
+          <li><strong>[7 min]</strong> <em>"Think Before Recommend: Unleashing the Latent Reasoning Power for Sequential Recommendation"</em><br>
           Jiakai Tang, Sunhao Dai, Teng Shi, Jun Xu, Xu Chen, Wen Chen, Jian Wu and Yuning Jiang</li>
-          <li><strong>[3 min] LLM-based User Profile Management for Recommender System</strong><br>
+          <li><strong>[3 min]</strong> <em>"LLM-based User Profile Management for Recommender System"</em><br>
           Seunghwan Bang and Hwanjun Song</li>
-          <li><strong>[3 min] Personalized Conversational Recommendations via Prompt tuning and Knowledge Injection</strong><br>
+          <li><strong>[3 min]</strong> <em>"Personalized Conversational Recommendations via Prompt tuning and Knowledge Injection<"</em><br>
           Noriaki Kawamae</li>
-          <li><strong>[3 min] How Does Multimodal Training Affect Text-Only Recommendation Capabilities of LLMs: A Comparative Analysis</strong><br>
+          <li><strong>[3 min]</strong> <em>"How Does Multimodal Training Affect Text-Only Recommendation Capabilities of LLMs: A Comparative Analysis"</em><br>
           Mert Atay, Ismail Hakki Toroslu, Ismail Sengor Altingovde and Pinar Karagoz</li>
-          <li><strong>[3 min] Asking Clarifying Questions for Preference Elicitation With Large Language Models</strong><br>
+          <li><strong>[3 min]</strong> <em>"Asking Clarifying Questions for Preference Elicitation With Large Language Models"</em><br>
           Ali Montazeralghaem, Guy Tennenholtz, Craig Boutilier and Ofer Meshi</li>
         </ul>
       </td>
