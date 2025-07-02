@@ -226,55 +226,87 @@ title: "GENNEXT Workshop"
 
     <hr>
 
-    <h2 id="program">Program (Tentative)</h2>
-    <table>
-      <thead>
-        <tr>
-          <th>Time</th>
-          <th>Event</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>09:00-09:15</td>
-          <td><strong>Opening and Welcome</strong></td>
-        </tr>
-        <tr>
-          <td>09:15-10:00</td>
-          <td><strong>Keynote Talk</strong> (Speaker TBA)</td>
-        </tr>
-        <tr>
-          <td>10:00-10:30</td>
-          <td><strong>Paper Presentations</strong> (Session I)</td>
-        </tr>
-        <tr>
-          <td>10:30-11:00</td>
-          <td>Coffee Break</td>
-        </tr>
-        <tr>
-          <td>11:00-11:45</td>
-          <td><strong>Keynote Talk</strong> (Speaker TBA)</td>
-        </tr>
-        <tr>
-          <td>11:45-12:15</td>
-          <td><strong>Paper Presentations</strong> (Session II)</td>
-        </tr>
-        <tr>
-          <td>12:15-12:30</td>
-          <td><strong>Wrap-up and Future Directions</strong></td>
-        </tr>
-      </tbody>
-    </table>
-    <p>
-      The final schedule will be posted once we confirm the accepted contributions and keynote speakers.
-    </p>
+<h2 id="program">Program</h2>
+<table>
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Event</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>09:00-09:45</td>
+      <td>
+        <strong>Invited Talk:</strong> ChengXiang Zhai (UIUC)<br>
+        <em>"Towards A Unified Agentic Framework for Conversational Information Retrieval and Recommendation: Models, Algorithms, and Evaluation"</em>
+      </td>
+    </tr>
+    <tr>
+      <td>09:45-10:30</td>
+      <td>
+        <strong>Contributed Talks:</strong> "Resources, Evaluation, RAG, and Information Retrieval"<br>
+        <ul>
+          <li><strong>[LONG: 7 min]</strong> A Resource for Studying Textual Poisoning Attacks against Embedding-based Retrieval-Augmented Generation in Recommender Systems<br>
+          Fatemeh Nazary, Yashar Deldjoo and Tommaso Di Noia</li>
+          <li><strong>[LONG: 7 min]</strong> FACap: A Large-scale Fashion Dataset for Fine-grained Composed Image Retrieval<br>
+          Francois Garderes, Shizhe Chen, Camille-Sovanneary Gauthier and Jean Ponce</li>
+          <li><strong>[LONG: 7 min]</strong> Exploring Diversity, Novelty, and Popularity Bias in ChatGPT’s Recommendations<br>
+          Dario Di Palma, Giovanni Maria Biancofiore, Vito Walter Anelli, Fedelucio Narducci and Tommaso Di Noia</li>
+          <li><strong>[SHORT: 3 min]</strong> CAL-RAG: Retrieval-Augmented Multi-Agent Generation for Content-Aware Layout Design<br>
+          Najmeh Forouzandehmehr, Reza Yousefi Maragheh, Sriram Kollipara, Kai Zhao, Topojoy Biswas, Jianpeng Xu, Evren Korpeoglu and Kannan Achan</li>
+          <li><strong>[SHORT: 3 min]</strong> MIND: Memory-Informed & INteractive Dynamic RAG for Multi-Hop Question Answering<br>
+          Yuelyu Ji, Rui Meng, Zhuochun Li and Daqing He</li>
+          <li><strong>[SHORT: 3 min]</strong> Multilingual Information Retrieval with a Monolingual Knowledge Base<br>
+          Yingyin Zhuang, Aman Gupta and Anurag Beniwal</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10:30-11:00</td>
+      <td>Coffee Break</td>
+    </tr>
+    <tr>
+      <td>11:00-11:45</td>
+      <td>
+        <strong>Invited Talk:</strong> <em>Speaker TBA</em>
+      </td>
+    </tr>
+    <tr>
+      <td>11:45-12:33</td>
+      <td>
+        <strong>Contributed Talks:</strong> "Generative Models for Conversation and Recommendation"<br>
+        <ul>
+          <li><strong>[LONG: 7 min]</strong> Synthetic Dialogue Generation for Interactive Conversational Elicitation & Recommendation (ICER)<br>
+          Moonkyung Ryu, Chih-Wei Hsu, Yinlam Chow, Mohammad Ghavamzadeh and Craig Boutilier</li>
+          <li><strong>[LONG: 7 min]</strong> ARAG: Agentic Retrieval Augmented Generation for Personalized Recommendation<br>
+          Reza Yousefi Maragheh, Pratheek Vadla, Priyank Gupta, Kai Zhao, Aysenur Inan, Kehui Yao, Jianpeng Xu, Praveen Kanumala, Jason Cho and Sushant Kumar</li>
+          <li><strong>[LONG: 7 min]</strong> Think Before Recommend: Unleashing the Latent Reasoning Power for Sequential Recommendation<br>
+          Jiakai Tang, Sunhao Dai, Teng Shi, Jun Xu, Xu Chen, Wen Chen, Jian Wu and Yuning Jiang</li>
+          <li><strong>[SHORT: 3 min]</strong> LLM-based User Profile Management for Recommender System<br>
+          Seunghwan Bang and Hwanjun Song</li>
+          <li><strong>[SHORT: 3 min]</strong> Personalized Conversational Recommendations via Prompt tuning and Knowledge Injection<br>
+          Noriaki Kawamae</li>
+          <li><strong>[SHORT: 3 min]</strong> How Does Multimodal Training Affect Text-Only Recommendation Capabilities of LLMs: A Comparative Analysis<br>
+          Mert Atay, Ismail Hakki Toroslu, Ismail Sengor Altingovde and Pinar Karagoz</li>
+          <li><strong>[SHORT: 3 min]</strong> Asking Clarifying Questions for Preference Elicitation With Large Language Models<br>
+          Ali Montazeralghaem, Guy Tennenholtz, Craig Boutilier and Ofer Meshi</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12:33-12:40</td>
+      <td><strong>Wrap-up and Future Directions</strong></td>
+    </tr>
+  </tbody>
+</table>
 
     <hr>
 
     <h2 id="featured-speakers">Featured Speakers (Tentative)</h2>
     <ul>
-      <li><strong>Keynote 1</strong>: <em>TBA</em><br>
-        Potential topics: bridging LLMs and IR or generative recommendation at scale.</li>
+      <li><strong>Keynote 1</strong>: <em>ChengXiang Zhai (UIUC)</em><br>
+        <em>"Towards A Unified Agentic Framework for Conversational Information Retrieval and Recommendation: Models, Algorithms, and Evaluation"</em></li>
       <li><strong>Keynote 2</strong>: <em>TBA</em><br>
         Potential topics: addressing fairness, privacy, or hallucinations in generative models.</li>
     </ul>
