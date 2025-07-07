@@ -294,18 +294,18 @@ title: "GENNEXT Workshop"
         </ul>
       </td>
     </tr>
-<!--    
     <tr>
       <td>12:33-12:40</td>
       <td><strong>Wrap-up and Future Directions</strong></td>
     </tr>
--->
+<!--
     <tr>
-      <td>12:33-1:30</td>
+      <td>12:33-1</td>
       <td><strong>Lunch (on your own)</strong></td>
     </tr>
+-->
     <tr>
-      <td>12:33-12:40</td>
+      <td>13:00-14:30</td>
       <td><strong>Joint SIGIR Workshops Poster Session (<a href="https://sigir2025.dei.unipd.it/posters.html">poster instructions</a>)</strong></td>
     </tr>
   </tbody>
