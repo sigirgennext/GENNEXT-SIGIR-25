@@ -324,11 +324,6 @@ title: "GENNEXT Workshop"
 
     <hr>
 
-    <h2 id="accepted-papers">Accepted Papers</h2>
-    <p>A list of accepted papers will be updated here after notifications.</p>
-
-    <hr>
-
     <h2 id="organizers">Workshop Organizers</h2>
     <ul>
       <li><strong>Yashar Deldjoo</strong>, Tenure-Track Assistant Professor, Polytechnic University of Bari, Italy</li>
