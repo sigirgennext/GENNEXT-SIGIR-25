@@ -218,9 +218,9 @@ title: "GENNEXT Workshop"
     <h2 id="important-dates">Important Dates (Tentative)</h2>
     <ul>
       <li><strong>Submission Deadline</strong>: <span style="text-decoration: line-through;">April 23, 2025 (AOE)</span> <strong>New:</strong> May 4, 2025 (AOE)</li>
-      <li><strong>Notification of Acceptance</strong>: May 21, 2025</li>
-      <li><strong>Camera-Ready Deadline</strong>: TBD (instructions still in progress)</li>
-      <li><strong>Workshop Date</strong>: July 17, 2025 (During SIGIR 2025)</li>
+      <li><strong>Notification of Acceptance</strong>: <span style="text-decoration: line-through;">May 21, 2025</span></li>
+      <!-- <li><strong>Camera-Ready Deadline</strong>: TBD (instructions still in progress)</li> -->
+      <li><strong>Workshop Date</strong>: July 17, 2025 (During SIGIR 2025)<br><strong>Location</strong>: Mantegna 1, Floor 3</li>
     </ul>
     <p><em>Exact deadlines may be adjusted to align with SIGIR final scheduling.</em></p>
 
@@ -317,12 +317,12 @@ title: "GENNEXT Workshop"
     <h2 id="featured-speakers">Invited Speakers</h2>
     <ul>
       <li><strong>Keynote 1</strong>: <em><a href="https://czhai.cs.illinois.edu/">ChengXiang Zhai</a> (UIUC)</em><br>
-        <strong>Title:</strong><em> "Towards A Unified Agentic Framework for Conversational Information Retrieval and Recommendation: Models, Algorithms, and Evaluation"</em><br>
-        <strong>Abstract:</strong> Conversational Information Retrieval (IR) and Recommendation Systems have traditionally been treated as distinct yet closely related tasks. However, recent advancements in large language models (LLMs), interactive user modeling, and reinforcement learning suggest the possibility of viewing both IR and recommender systems as special cases within a broader agentic interaction framework. In this talk, I propose a unified perspective where conversational IR and recommendation tasks are modeled as iterative, cooperative interactions between intelligent agents and users. Key technical challenges and ideas will be discussed, including leveraging LLMs for building general-purpose conversational agents, designing effective memory mechanisms for context retention, modeling diverse user tasks and behaviors, and applying reinforcement learning for adaptive interaction management. Furthermore, I will explore evaluation methodologies, particularly emphasizing the use of simulated user agents to assess the effectiveness and adaptability of these unified conversational agents. 
+        <strong>Title</strong>: <em>"Towards A Unified Agentic Framework for Conversational Information Retrieval and Recommendation: Models, Algorithms, and Evaluation"</em><br>
+        <strong>Abstract</strong>: Conversational Information Retrieval (IR) and Recommendation Systems have traditionally been treated as distinct yet closely related tasks. However, recent advancements in large language models (LLMs), interactive user modeling, and reinforcement learning suggest the possibility of viewing both IR and recommender systems as special cases within a broader agentic interaction framework. In this talk, I propose a unified perspective where conversational IR and recommendation tasks are modeled as iterative, cooperative interactions between intelligent agents and users. Key technical challenges and ideas will be discussed, including leveraging LLMs for building general-purpose conversational agents, designing effective memory mechanisms for context retention, modeling diverse user tasks and behaviors, and applying reinforcement learning for adaptive interaction management. Furthermore, I will explore evaluation methodologies, particularly emphasizing the use of simulated user agents to assess the effectiveness and adaptability of these unified conversational agents. 
         </li>
       <li><strong>Keynote 2</strong>: <em><a href="https://cseweb.ucsd.edu/~jmcauley">Julian McAuley</a> (UCSD)</em><br>
-        <strong>Title:</strong><em> "What's still hard about conversational recommendation?"</em><br>
-        <strong>Abstract:</strong> In this talk we'll explore the current landscape of conversational recommendation in light of new developments on Large Language Models. While LLMs offer a surprisingly effective "off-the-shelf" solution to conversational recommendation, they also have various limitations. We'll look at ways that current models can potentially be improved by exploring new datasets, methods, and evaluation protocols for conversational recommendation.
+        <strong>Title</strong>: <em>"What's still hard about conversational recommendation?"</em><br>
+        <strong>Abstract</strong>: In this talk we'll explore the current landscape of conversational recommendation in light of new developments on Large Language Models. While LLMs offer a surprisingly effective "off-the-shelf" solution to conversational recommendation, they also have various limitations. We'll look at ways that current models can potentially be improved by exploring new datasets, methods, and evaluation protocols for conversational recommendation.
         </li>
     </ul>
 
