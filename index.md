@@ -218,7 +218,7 @@ title: "GENNEXT Workshop"
     <h2 id="important-dates">Important Dates</h2>
     <ul>
       <li><strong>Submission Deadline</strong>: <span style="text-decoration: line-through;">April 23, 2025 (AOE)</span> <strong>New:</strong> May 4, 2025 (AOE)</li>
-      <li><strong>Notification of Acceptance</strong>: <span style="text-decoration: line-through;">May 21, 2025</span></li>
+      <li><strong>Notification of Acceptance</strong>: May 21, 2025</li>
       <!-- <li><strong>Camera-Ready Deadline</strong>: TBD (instructions still in progress)</li> -->
       <li><strong>Workshop Date</strong>: July 17, 2025 (During SIGIR 2025)<br><strong>Location</strong>: Mantegna 1, Floor 3</li>
     </ul>
