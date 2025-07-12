@@ -238,7 +238,7 @@ title: "GENNEXT Workshop"
     <tr>
       <td>09:00-09:45</td>
       <td>
-        <strong>Invited Talk:</strong> ChengXiang Zhai (UIUC)<br>
+        <strong>Invited Talk:</strong> <a href="https://czhai.cs.illinois.edu/">ChengXiang Zhai</a> (UIUC)<br>
         <em>"Towards A Unified Agentic Framework for Conversational Information Retrieval and Recommendation: Models, Algorithms, and Evaluation"</em>
       </td>
     </tr>
@@ -269,7 +269,8 @@ title: "GENNEXT Workshop"
     <tr>
       <td>11:00-11:45</td>
       <td>
-        <strong>Invited Talk:</strong> <em>Speaker TBA</em>
+        <strong>Invited Talk:</strong> <a href="https://cseweb.ucsd.edu/~jmcauley">Julian McAuley</a> (UCSD)<br>
+        <em>"What's still hard about conversational recommendation?"</em>
       </td>
     </tr>
     <tr>
@@ -313,14 +314,13 @@ title: "GENNEXT Workshop"
 
     <hr>
 
-    <h2 id="featured-speakers">Featured Speakers (Tentative)</h2>
+    <h2 id="featured-speakers">Invited Speakers</h2>
     <ul>
-      <li><strong>Keynote 1</strong>: <em>ChengXiang Zhai (UIUC)</em><br>
+      <li><strong>Keynote 1</strong>: <em><a href="https://czhai.cs.illinois.edu/">ChengXiang Zhai</a> (UIUC)</em><br>
         <em>"Towards A Unified Agentic Framework for Conversational Information Retrieval and Recommendation: Models, Algorithms, and Evaluation"</em></li>
-      <li><strong>Keynote 2</strong>: <em>TBA</em><br>
-        Potential topics: addressing fairness, privacy, or hallucinations in generative models.</li>
+      <li><strong>Keynote 2</strong>: <em><a href="https://cseweb.ucsd.edu/~jmcauley">Julian McAuley</a> (UCSD)</em><br>
+        <em>"What's still hard about conversational recommendation?"</em></li>
     </ul>
-    <p><em>(Additional speakers to be announced.)</em></p>
 
     <hr>
 
@@ -328,7 +328,7 @@ title: "GENNEXT Workshop"
     <ul>
       <li><strong>Yashar Deldjoo</strong>, Tenure-Track Assistant Professor, Polytechnic University of Bari, Italy</li>
       <li><strong>Julian McAuley</strong>, Professor, UC San Diego, USA</li>
-      <li><strong>Scott Sanner</strong>, Associate Professor, University of Toronto, Canada</li>
+      <li><strong>Scott Sanner</strong>, Professor, University of Toronto, Canada</li>
       <li><strong>Pablo Castells</strong>, Professor, Autonomous University of Madrid, Spain</li>
       <li><strong>Shuai Zhang</strong>, Applied Scientist, Amazon Web Services AI, USA</li>
       <li><strong>Enrico Palumbo</strong>, Senior Research Scientist, Spotify</li>
@@ -339,11 +339,24 @@ title: "GENNEXT Workshop"
 
     <h2 id="committee">Program Committee (Partial List)</h2>
     <ul>
+    <!--
       <li>Michael Ekstrand, Drexel University</li>
       <li>Craig Boutilier, Google Research</li>
       <li>Aixin Sun, Nanyang Technological University</li>
       <li>Jianling Wang, Google DeepMind</li>
       <li>(Additional members to be announced)</li>
+    -->
+      <li>Yupeng Hou (UCSD)</li>
+      <li>Rishabh Mehrotra (Sharechat)</li>
+      <li>Chengkai Huang (University of New South Wales)</li>
+      <li>Mohamed Reda Bouadjenek (Deakin University)</li>
+      <li>José Luis Redondo García (Spotify)</li>
+      <li>Ali Vardasbi (University of Amsterdam)</li>
+      <li>Martin Mladenov (Google Research)</li>
+      <li>Branislav Kveton (Amazon)</li>
+      <li>Qidong Liu (City University of Hong Kong (CityUHK))</li>
+      <li>Azin Ghazimatin (Max Plank Institute)</li>
+      <li>Gustavo Penha (Spotify)</li>
     </ul>
 
     <hr>
