@@ -337,7 +337,7 @@ title: "GENNEXT Workshop"
 
     <hr>
 
-    <h2 id="committee">Program Committee (Partial List)</h2>
+    <h2 id="committee">Program Committee</h2>
     <ul>
     <!--
       <li>Michael Ekstrand, Drexel University</li>
