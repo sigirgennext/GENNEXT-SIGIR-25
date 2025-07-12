@@ -353,9 +353,9 @@ title: "GENNEXT Workshop"
       <li>José Luis Redondo García (Spotify)</li>
       <li>Ali Vardasbi (University of Amsterdam)</li>
       <li>Martin Mladenov (Google Research)</li>
-      <li>Branislav Kveton (Amazon)</li>
-      <li>Qidong Liu (City University of Hong Kong (CityUHK))</li>
-      <li>Azin Ghazimatin (Max Plank Institute)</li>
+      <li>Branislav Kveton (Adobe Research)</li>
+      <li>Qidong Liu (City University of Hong Kong)</li>
+      <li>Azin Ghazimatin (Max Planck Institute)</li>
       <li>Gustavo Penha (Spotify)</li>
     </ul>
 
