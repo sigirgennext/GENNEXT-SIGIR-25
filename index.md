@@ -247,17 +247,17 @@ title: "GENNEXT Workshop"
       <td>
         <strong>Contributed Talks:</strong> <em>"Resources, Evaluation, RAG, and Information Retrieval"</em><br>
         <ul>
-          <li><strong>[7 min]</strong> <em>"A Resource for Studying Textual Poisoning Attacks against Embedding-based Retrieval-Augmented Generation in Recommender Systems"</em><br>
+          <li><strong>[7 min]</strong> <em>"<a href="https://sigirgennext.github.io/GENNEXT-SIGIR-25/submissions/gennext_sigir25_11.pdf">A Resource for Studying Textual Poisoning Attacks against Embedding-based Retrieval-Augmented Generation in Recommender Systems</a>"</em><br>
           Fatemeh Nazary, Yashar Deldjoo and Tommaso Di Noia</li>
-          <li><strong>[7 min]</strong> <em>"FACap: A Large-scale Fashion Dataset for Fine-grained Composed Image Retrieval"</em><br>
+          <li><strong>[7 min]</strong> <em>"<a href="https://sigirgennext.github.io/GENNEXT-SIGIR-25/submissions/gennext_sigir25_4.pdf">FACap: A Large-scale Fashion Dataset for Fine-grained Composed Image Retrieval</a>"</em><br>
           Francois Garderes, Shizhe Chen, Camille-Sovanneary Gauthier and Jean Ponce</li>
           <li><strong>[7 min]</strong> <em>"Exploring Diversity, Novelty, and Popularity Bias in ChatGPT’s Recommendations"</em><br>
           Dario Di Palma, Giovanni Maria Biancofiore, Vito Walter Anelli, Fedelucio Narducci and Tommaso Di Noia</li>
-          <li><strong>[3 min]</strong> <em>"CAL-RAG: Retrieval-Augmented Multi-Agent Generation for Content-Aware Layout Design"</em><br>
+          <li><strong>[3 min]</strong> <em>"<a href="https://sigirgennext.github.io/GENNEXT-SIGIR-25/submissions/gennext_sigir25_5.pdf">CAL-RAG: Retrieval-Augmented Multi-Agent Generation for Content-Aware Layout Design</a>"</em><br>
           Najmeh Forouzandehmehr, Reza Yousefi Maragheh, Sriram Kollipara, Kai Zhao, Topojoy Biswas, Jianpeng Xu, Evren Korpeoglu and Kannan Achan</li>
-          <li><strong>[3 min]</strong> <em>"MIND: Memory-Informed & INteractive Dynamic RAG for Multi-Hop Question Answering"</em><br>
+          <li><strong>[3 min]</strong> <em>"<a href="https://sigirgennext.github.io/GENNEXT-SIGIR-25/submissions/gennext_sigir25_1.pdf">Memory-Aware and Uncertainty-Guided Retrieval for Multi-Hop Question Answering</a>"</em><br>
           Yuelyu Ji, Rui Meng, Zhuochun Li and Daqing He</li>
-          <li><strong>[3 min]</strong> <em>"Multilingual Information Retrieval with a Monolingual Knowledge Base"</em><br>
+          <li><strong>[3 min]</strong> <em>"<a href="https://sigirgennext.github.io/GENNEXT-SIGIR-25/submissions/gennext_sigir25_13.pdf">Multilingual Information Retrieval with a Monolingual Knowledge Base</a>"</em><br>
           Yingyin Zhuang, Aman Gupta and Anurag Beniwal</li>
         </ul>
       </td>
@@ -282,15 +282,15 @@ title: "GENNEXT Workshop"
           Moonkyung Ryu, Chih-Wei Hsu, Yinlam Chow, Mohammad Ghavamzadeh and Craig Boutilier</li>
           <li><strong>[7 min]</strong> <em>"ARAG: Agentic Retrieval Augmented Generation for Personalized Recommendation"</em><br>
           Reza Yousefi Maragheh, Pratheek Vadla, Priyank Gupta, Kai Zhao, Aysenur Inan, Kehui Yao, Jianpeng Xu, Praveen Kanumala, Jason Cho and Sushant Kumar</li>
-          <li><strong>[7 min]</strong> <em>"Think Before Recommend: Unleashing the Latent Reasoning Power for Sequential Recommendation"</em><br>
+          <li><strong>[7 min]</strong> <em>"<a href="https://sigirgennext.github.io/GENNEXT-SIGIR-25/submissions/gennext_sigir25_2.pdf">Think Before Recommend: Unleashing the Latent Reasoning Power for Sequential Recommendation</a>"</em><br>
           Jiakai Tang, Sunhao Dai, Teng Shi, Jun Xu, Xu Chen, Wen Chen, Jian Wu and Yuning Jiang</li>
-          <li><strong>[3 min]</strong> <em>"LLM-based User Profile Management for Recommender System"</em><br>
+          <li><strong>[3 min]</strong> <em>"<a href="https://sigirgennext.github.io/GENNEXT-SIGIR-25/submissions/gennext_sigir25_7.pdf">LLM-based User Profile Management for Recommender System</a>"</em><br>
           Seunghwan Bang and Hwanjun Song</li>
           <li><strong>[3 min]</strong> <em>"Personalized Conversational Recommendations via Prompt tuning and Knowledge Injection<"</em><br>
           Noriaki Kawamae</li>
-          <li><strong>[3 min]</strong> <em>"How Does Multimodal Training Affect Text-Only Recommendation Capabilities of LLMs: A Comparative Analysis"</em><br>
+          <li><strong>[3 min]</strong> <em>"<a href="https://sigirgennext.github.io/GENNEXT-SIGIR-25/submissions/gennext_sigir25_6.pdf">How Does Multimodal Training Affect Text-Only Recommendation Capabilities of LLMs: A Comparative Analysis</a>"</em><br>
           Mert Atay, Ismail Hakki Toroslu, Ismail Sengor Altingovde and Pinar Karagoz</li>
-          <li><strong>[3 min]</strong> <em>"Asking Clarifying Questions for Preference Elicitation With Large Language Models"</em><br>
+          <li><strong>[3 min]</strong> <em>"<a href="https://sigirgennext.github.io/GENNEXT-SIGIR-25/submissions/gennext_sigir25_10.pdf">Asking Clarifying Questions for Preference Elicitation With Large Language Models</a>"</em><br>
           Ali Montazeralghaem, Guy Tennenholtz, Craig Boutilier and Ofer Meshi</li>
         </ul>
       </td>
@@ -317,9 +317,13 @@ title: "GENNEXT Workshop"
     <h2 id="featured-speakers">Invited Speakers</h2>
     <ul>
       <li><strong>Keynote 1</strong>: <em><a href="https://czhai.cs.illinois.edu/">ChengXiang Zhai</a> (UIUC)</em><br>
-        <em>"Towards A Unified Agentic Framework for Conversational Information Retrieval and Recommendation: Models, Algorithms, and Evaluation"</em></li>
+        <strong>Title:</strong><em> "Towards A Unified Agentic Framework for Conversational Information Retrieval and Recommendation: Models, Algorithms, and Evaluation"</em><br>
+        <strong>Abstract:</strong> Conversational Information Retrieval (IR) and Recommendation Systems have traditionally been treated as distinct yet closely related tasks. However, recent advancements in large language models (LLMs), interactive user modeling, and reinforcement learning suggest the possibility of viewing both IR and recommender systems as special cases within a broader agentic interaction framework. In this talk, I propose a unified perspective where conversational IR and recommendation tasks are modeled as iterative, cooperative interactions between intelligent agents and users. Key technical challenges and ideas will be discussed, including leveraging LLMs for building general-purpose conversational agents, designing effective memory mechanisms for context retention, modeling diverse user tasks and behaviors, and applying reinforcement learning for adaptive interaction management. Furthermore, I will explore evaluation methodologies, particularly emphasizing the use of simulated user agents to assess the effectiveness and adaptability of these unified conversational agents. 
+        </li>
       <li><strong>Keynote 2</strong>: <em><a href="https://cseweb.ucsd.edu/~jmcauley">Julian McAuley</a> (UCSD)</em><br>
-        <em>"What's still hard about conversational recommendation?"</em></li>
+        <strong>Title:</strong><em> "What's still hard about conversational recommendation?"</em><br>
+        <strong>Abstract:</strong> In this talk we'll explore the current landscape of conversational recommendation in light of new developments on Large Language Models. While LLMs offer a surprisingly effective "off-the-shelf" solution to conversational recommendation, they also have various limitations. We'll look at ways that current models can potentially be improved by exploring new datasets, methods, and evaluation protocols for conversational recommendation.
+        </li>
     </ul>
 
     <hr>
